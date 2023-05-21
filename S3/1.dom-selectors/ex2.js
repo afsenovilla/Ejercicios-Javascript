@@ -1,1 +1,2 @@
-const showme.button = document.querySelector(#pillado);
+const button$$ = document.body.querySelector('#pillado');
+console.log(showMeButton$);
